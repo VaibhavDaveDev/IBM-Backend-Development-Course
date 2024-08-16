@@ -75,7 +75,7 @@ Throughout the program, you'll engage in practical projects that include:
 
 - [Application Development using Microservices and Serverless](https://coursera.org/share/9124e5f1bf87aca95e94703ccbbd3461) <details>
   <summary>Show Certificate</summary><p>
-    <img src="https://github.com/user-attachments/assets/77332988-1578-493f-8264-4d99ff89df92k" />
+    <img src="https://github.com/user-attachments/assets/f9efa913-c8d4-47b8-929a-b223c6c6ff84" />
 
   </p></details>
 
